@@ -4,9 +4,6 @@ Welcome to **Cupid Link**, the dating app that puts fun, personality, and privac
 
 ## Why Cupid Link?
 
-- **Unlimited Swipes, Every Day!**  
-  Swipe as much as you want, whenever you want. There’s no daily limit, so you can keep exploring new connections without ever hitting a wall.
-
 - **Swipe Right for Fun!**  
   Discover new connections with an easy, addictive swipe interface. No more complicated menus or awkward introductions—just swipe, match, and start chatting!
 
@@ -24,10 +21,12 @@ Welcome to **Cupid Link**, the dating app that puts fun, personality, and privac
 
 ## Features at a Glance
 
-- Unlimited swipe-based matching for quick, effortless browsing
+- Swipe-based matching for quick, effortless browsing
 - End-to-end encrypted chat for privacy and peace of mind
 - MBTI personality types with compatibility insights
 - Unlimited messaging and matches for all users
+- **Map feature:** New users are visible on the map for 24 hours, making discovery exciting and time-limited
+- **Stories:** Upload and share photos or videos as stories with the community
 - 100% free—no premium tiers
 
 ---
