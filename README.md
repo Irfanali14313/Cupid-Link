@@ -32,3 +32,9 @@ Welcome to **Cupid Link**, the dating app that puts fun, personality, and privac
 ---
 
 Ready to meet your match? Cupid Link is your new favorite way to connect, chat, and have fun—no strings attached!
+
+If you’re interested in learning more or collaborating, please reach out!
+
+## Contact
+
+- **Owner:** [Irfanali14313](https://github.com/Irfanali14313)
